@@ -42,7 +42,7 @@ nav img {
     padding-top: 100px;
 }
 
-.products-content ul{
+ul{
   display: flex;
   flex-wrap: wrap;
   gap: 14px;
