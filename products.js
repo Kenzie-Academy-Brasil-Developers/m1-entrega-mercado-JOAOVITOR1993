@@ -96,7 +96,6 @@ let higiene = []
 let mainFrutas  = document.querySelector(".products-content-fruits")
 let mainBebidas = document.querySelector(".products-content-drinks")
 let mainHigiene = document.querySelector(".products-content-hygiene")
-console.log(mainFrutas)
 
 function dividirProdCategoria(arrawProdutos){
   for(let i = 0; i < arrawProdutos.length; i++){
